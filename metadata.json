@@ -1,0 +1,5 @@
+{
+  "name": "Auto-RPPM Generator",
+  "description": "A smart tool for teachers to automatically generate Deep Learning Lesson Plans (RPPM) based on curriculum standards.",
+  "requestFramePermissions": []
+}
